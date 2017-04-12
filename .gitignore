@@ -12,5 +12,4 @@ pkg
 Gemfile.lock
 *.gem
 *.swp
-.*
 >>>>>>> gollum_upstream/master
