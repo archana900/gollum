@@ -3,8 +3,7 @@
 # Example.gitignore files : https://github.com/github/gitignore
 _notes/
 /bower_components/
-<<<<<<< HEAD
 /node_modules/..
-=======
 /node_modules/
->>>>>>> gi
+/node_modules/
+/10119.1.png
